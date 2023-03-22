@@ -14,3 +14,10 @@ The following is a description of the contents of each file:
 8. `sll-application.c`: the application of single linked list in various cases, including sequential data insertion, data search, and specific data deletion.
 
 Whether you're a beginner looking to learn about linked lists or an experienced developer in need of a reliable implementation, this repository has everything you need to get started. Feel free to fork the repository and modify it to suit your own needs!
+
+### How To Contribute
+1. Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
+2. Clone the repository: `$ git clone https://github.com/daffaazhar/single-linked-list.git`.
+3. Create a new branch: `$ git checkout https://github.com/daffaazhar/single-linked-list.git -b name_for_new_branch`.
+4. Make changes and test.
+5. Submit Pull Request with comprehensive description of changes.
